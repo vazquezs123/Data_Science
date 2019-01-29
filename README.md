@@ -1,7 +1,7 @@
 # Data Science Homework Repository
-===================
-Contact Information
-===================
+### ===================
+### Contact Information
+### ===================
 Name: Steven Vazquez
 Email: stevenv@smu.edu, vazquezs123@gmail.com
 
