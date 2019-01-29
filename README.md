@@ -1,2 +1,8 @@
-# stat6306introdatascience
-Files and projects for Stat 6306 Introduction to Data Science
+# Data Science Homework Repository
+===================
+Contact Information
+===================
+Name: Steven Vazquez
+Email: stevenv@smu.edu, vazquezs123@gmail.com
+
+This repo is to serve as a repository for SMU MSDS's Data Science course.
